@@ -44,3 +44,7 @@ print('US' in (my_tweet['visited_countries']))
 #3.9
 my_tweet["coordinates"] = ( -81, 45)
 print(my_tweet)
+
+_1st_number = 11
+
+print(_1st_number)

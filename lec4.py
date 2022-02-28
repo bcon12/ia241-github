@@ -61,3 +61,11 @@ test_ok['hull'] = 'mixup'
 print(test_ok)
 
 print(test_ok.get('box'))
+
+
+v1 = (1, 2, 3)
+v2= [1, 1, 2, 2, 3, 4]
+
+print(len(v1))
+
+print (len(('this is a string').split()))
